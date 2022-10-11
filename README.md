@@ -2,6 +2,7 @@
 # week06-5
 
 # week06-1
+
 '''
 #include <stdio.h>
 int main()
@@ -15,8 +16,10 @@ int main()
      }
 
 }
+
 '''
 # week06-2
+
 '''
 #include <stdio.h>
 int main()
@@ -32,8 +35,10 @@ int main()
      }
 
 }
+
 '''
 # week06-3
+
 '''
 #include <stdio.h>
 int main()
@@ -50,8 +55,10 @@ int main()
     }
     printf("ans: %d 可約分",ans);
 }
+
 '''
 # week06-4
+
 '''
 #include <stdio.h>
 int main()
