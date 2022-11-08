@@ -1,0 +1,14 @@
+
+#include<stdio.h>
+int main ()
+{
+    long long int a,b;
+    scanf("%lld %lld",&a,&b);
+
+    long long int ans;
+    for(long long int i = 1; i<=a; i++){
+        if(a%1==0 && b%1==0 ) ans = i;
+
+    }
+    printf("最大公因數是:%lld",ans);
+}
